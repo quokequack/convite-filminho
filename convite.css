@@ -1,0 +1,30 @@
+body{
+    display:flex;
+    justify-content:center;
+    align-items:Center;
+}
+
+.corpo{
+    display:flex;
+    justify-content:center;
+    align-items:Center;
+    width:100%;
+    height:100vh;
+    background-color:#000;
+
+}
+
+.card-body{
+    text-align:center;
+}
+
+.botoes .recuso{
+    color:#fff;
+    background-color: #d33;
+    margin-left:5%;
+}
+
+.botoes .aceito{
+    background-color:#408740;
+    color:#fff;
+}
